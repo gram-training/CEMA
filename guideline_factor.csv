@@ -1,0 +1,30 @@
+guideline,guideline_group,CLSI_2023_adjustment_factor
+EUCAST 2023,acinetobacter amikacin,0.8503031
+EUCAST 2023,acinetobacter ciprofloxacin,0.436879
+EUCAST 2023,acinetobacter doripenem,0.4541343
+EUCAST 2023,acinetobacter levofloxacin,0.8472093
+EUCAST 2023,enterobacterales amikacin,1.593269
+EUCAST 2023,enterobacterales ampicillinsulbactam,0.2111119
+EUCAST 2023,enterobacterales cefepime,0.8163731
+EUCAST 2023,enterobacterales ceftazidime,0.6645729
+EUCAST 2023,enterobacterales imipenem,2.348929
+EUCAST 2023,enterobacterales meropenem,1.124331
+EUCAST 2023,enterobacterales meropenem/vaborbactam,1.142857
+EUCAST 2023,enterococcus levofloxacin,1.741074
+EUCAST 2023,haemophilus influenzae ceftriaxone,0.1430125
+EUCAST 2023,neisseria gonorrhoeae cefixime,0.0796915
+EUCAST 2023,neisseria gonorrhoeae ceftriaxone,0.1724138
+EUCAST 2023,neisseria gonorrhoeae ciprofloxacin,0.9485962
+EUCAST 2023,pseudomonas aeruginosa cefepime,0.2078065
+EUCAST 2023,pseudomonas aeruginosa ceftazidime,0.2049123
+EUCAST 2023,pseudomonas aeruginosa ciprofloxacin,0.3135855
+EUCAST 2023,pseudomonas aeruginosa imipenem,0.2938706
+EUCAST 2023,pseudomonas aeruginosa levofloxacin,0.3940704
+EUCAST 2023,pseudomonas aeruginosa piperacillintazobactam,0.2593612
+EUCAST 2023,streptococcus pneumoniae amoxicillin/clavulanic acid,0.4136448
+EUCAST 2023,streptococcus pneumoniae azithromycin,0.9758148
+EUCAST 2023,streptococcus pneumoniae ceftriaxone,0.3677007
+EUCAST 2023,streptococcus pneumoniae ertapenem,0.5659164
+EUCAST 2023,streptococcus pneumoniae levofloxacin,0.0132134
+EUCAST 2023,streptococcus pneumoniae moxifloxacin,0.6935439
+EUCAST 2023,streptococcus pneumoniae trimethoprim/sulfamethoxazole,1.173017

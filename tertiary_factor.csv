@@ -1,0 +1,92 @@
+super_region,tert_group,adj,beta
+SSAfr,gram negative aminoglycoside,0.931426,0.717365
+SSAfr,gram negative beta_lactam,1.0885,0.748099
+SSAfr,gram negative fluoroquinolone,0.593628,0.644197
+SSAfr,gram negative sulfa,0.371374,0.591791
+SSAfr,gram positive beta_lactam,0.137142,0.534232
+SSAfr,gram positive fluoroquinolone,1.18037,0.765014
+SSAfr,gram positive macrolide,0.239783,0.55966
+SSAfr,gram positive sulfa,0.932054,0.717492
+SSAfr,gram positive vancomycin,0,0.5
+SSAfr,pseudomonales aminoglycoside,0.579912,0.641047
+SSAfr,pseudomonales beta_lactam,1.22192,0.772401
+SSAfr,pseudomonales fluoroquinolone,0.508901,0.624549
+SEAsiaOce,gram negative aminoglycoside,0.295261,0.573284
+SEAsiaOce,gram negative beta_lactam,0.606588,0.647162
+SEAsiaOce,gram negative fluoroquinolone,0,0.5
+SEAsiaOce,gram negative sulfa,0,0.5
+SEAsiaOce,gram positive beta_lactam,0.509908,0.624785
+SEAsiaOce,gram positive fluoroquinolone,0.110709,0.527649
+SEAsiaOce,gram positive macrolide,0.093084,0.523254
+SEAsiaOce,gram positive sulfa,0.540217,0.631863
+SEAsiaOce,gram positive vancomycin,0.721325,0.672899
+SEAsiaOce,pseudomonales aminoglycoside,0,0.5
+SEAsiaOce,pseudomonales beta_lactam,0,0.5
+SEAsiaOce,pseudomonales fluoroquinolone,0,0.5
+SAsia,gram negative aminoglycoside,0.430704,0.606042
+SAsia,gram negative beta_lactam,0.627233,0.651862
+SAsia,gram negative fluoroquinolone,0.118697,0.52964
+SAsia,gram negative sulfa,0.190886,0.547577
+SAsia,gram positive beta_lactam,0,0.5
+SAsia,gram positive fluoroquinolone,0.477633,0.617189
+SAsia,gram positive macrolide,0.090439,0.522594
+SAsia,gram positive sulfa,0.377073,0.593167
+SAsia,gram positive vancomycin,1.28483,0.78327
+SAsia,pseudomonales aminoglycoside,0.212978,0.553044
+SAsia,pseudomonales beta_lactam,0.305456,0.575776
+SAsia,pseudomonales fluoroquinolone,0.247258,0.561502
+NAfrME,gram negative aminoglycoside,0.963926,0.723907
+NAfrME,gram negative beta_lactam,1.23134,0.774053
+NAfrME,gram negative fluoroquinolone,0.172781,0.543088
+NAfrME,gram positive beta_lactam,0.836737,0.697778
+NAfrME,gram positive fluoroquinolone,1.70668,0.846406
+NAfrME,gram positive vancomycin,1.70266,0.845881
+NAfrME,pseudomonales aminoglycoside,0.537364,0.631199
+NAfrME,pseudomonales beta_lactam,0.527503,0.628901
+NAfrME,pseudomonales fluoroquinolone,0.350729,0.586794
+LatAm,gram negative aminoglycoside,0,0.5
+LatAm,gram negative beta_lactam,0,0.5
+LatAm,gram negative fluoroquinolone,0,0.5
+LatAm,gram negative sulfa,1.40E-08,0.5
+LatAm,gram positive beta_lactam,0.0221,0.505525
+LatAm,gram positive fluoroquinolone,0.139986,0.534939
+LatAm,gram positive macrolide,0.03209,0.508022
+LatAm,gram positive sulfa,0.007329,0.501832
+LatAm,gram positive vancomycin,0.176353,0.543974
+LatAm,pseudomonales aminoglycoside,0.020865,0.505216
+LatAm,pseudomonales beta_lactam,0.051044,0.512758
+LatAm,pseudomonales fluoroquinolone,0.044281,0.511069
+HI,gram negative aminoglycoside,0,0.5
+HI,gram negative beta_lactam,0,0.5
+HI,gram negative fluoroquinolone,0,0.5
+HI,gram negative sulfa,0,0.5
+HI,gram positive beta_lactam,0.109031,0.527231
+HI,gram positive fluoroquinolone,0.713121,0.67109
+HI,gram positive macrolide,1.13124,0.756068
+HI,gram positive sulfa,0,0.5
+HI,gram positive vancomycin,2.50E-09,0.5
+HI,pseudomonales aminoglycoside,0,0.5
+HI,pseudomonales beta_lactam,0,0.5
+HI,pseudomonales fluoroquinolone,0,0.5
+CEurCAsia,gram negative aminoglycoside,0,0.5
+CEurCAsia,gram negative beta_lactam,0.913744,0.713766
+CEurCAsia,gram negative fluoroquinolone,0.331927,0.582228
+CEurCAsia,gram positive beta_lactam,0.884876,0.707832
+CEurCAsia,gram positive fluoroquinolone,0.680977,0.663957
+CEurCAsia,gram positive vancomycin,0.623896,0.651104
+CEurCAsia,pseudomonales aminoglycoside,0.286831,0.57122
+CEurCAsia,pseudomonales beta_lactam,0.697229,0.667573
+CEurCAsia,pseudomonales fluoroquinolone,0.138606,0.534596
+HI,gram positive aminoglycoside,0,0.5
+LatAm,gram positive aminoglycoside,0,0.5
+CEurCAsia,gram positive aminoglycoside,0,0.5
+SEAsiaOce,gram positive aminoglycoside,0,0.5
+SAsia,gram positive aminoglycoside,0,0.5
+SSAfr,gram positive aminoglycoside,0,0.5
+NAfrME,gram positive aminoglycoside,0,0.5
+NAfrME,gram negative sulfa,0,0.5
+CEurCAsia,gram negative sulfa,0,0.5
+NAfrME,gram positive macrolide,0,0.5
+CEurCAsia,gram positive macrolide,0,0.5
+NAfrME,gram positive sulfa,0,0.5
+CEurCAsia,gram positive sulfa,0,0.5
